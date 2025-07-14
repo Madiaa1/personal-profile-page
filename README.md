@@ -13,6 +13,8 @@ In this page, I share my story, my dreams, and my hopes for the future as an Afg
 - Simple CSS styling
 - Favicon
 - Table
+- caption
+- address
 
 ## Author
 Mahdia Rasooli ✨
